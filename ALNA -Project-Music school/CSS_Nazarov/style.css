@@ -1,0 +1,28 @@
+
+
+body{
+    text-align: center;
+    background-color: burlywood;
+    
+}
+h1,h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:black;
+    border: 2px solid rgb(54, 38, 17);
+    
+    margin-left: 40px;
+    margin-right: 60px;
+}
+
+table,tr,td{
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 40%;
+    background-color:rgb(46, 235, 93);
+    border-collapse: collapse;
+    padding: 2px;
+
+}
+a{
+    color: rgb(218, 22, 22);
+}
